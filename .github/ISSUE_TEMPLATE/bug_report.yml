@@ -1,0 +1,81 @@
+name: Bug or compatibility report
+description: Report a problem with a Loki Moon Labs Dyson Sphere Program mod.
+title: "[Bug] "
+labels: [bug]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for helping improve Loki Moon Labs mods. Search existing reports before opening a new one.
+        This report and its attachments will be public. Remove personal information from screenshots and logs before sharing them.
+  - type: dropdown
+    id: mod
+    attributes:
+      label: Affected mod
+      description: Select the mod that has the problem.
+      options:
+        - Logistics Architect
+        - Quantum Conduit
+        - Planetary Resource Architect
+        - Star System Explorer
+        - Chinese to English Mod Translator
+        - Extended Tech Queue
+        - WorldWidePower
+        - Build Back Better
+        - Multiple Loki Moon Labs mods
+    validations:
+      required: true
+  - type: input
+    id: mod-version
+    attributes:
+      label: Mod version
+      description: Find the version in your mod manager. For multiple affected mods, list each version.
+      placeholder: "For example: Logistics Architect 0.1.6"
+    validations:
+      required: true
+  - type: input
+    id: game-version
+    attributes:
+      label: Dyson Sphere Program version
+      description: Include the complete version shown by the game.
+      placeholder: "For example: 0.10.35.29151"
+    validations:
+      required: true
+  - type: textarea
+    id: problem
+    attributes:
+      label: What happened?
+      description: Describe the problem and copy any on-screen error message.
+    validations:
+      required: true
+  - type: textarea
+    id: steps
+    attributes:
+      label: Steps to reproduce
+      description: Describe what you did before the problem occurred. If it is intermittent, say how often it happens.
+      placeholder: |
+        1. Load a save...
+        2. Open...
+        3. Click...
+    validations:
+      required: true
+  - type: textarea
+    id: expected
+    attributes:
+      label: What did you expect to happen?
+    validations:
+      required: true
+  - type: textarea
+    id: other-mods
+    attributes:
+      label: Other mods and compatibility details
+      description: List other mods that might be involved, with versions if known. Mention multiplayer or any relevant settings.
+    validations:
+      required: false
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Screenshots and relevant logs
+      description: Attach screenshots or a reviewed BepInEx/LogOutput.log file here, or paste the relevant error excerpt. You can leave this blank if no log is available.
+    validations:
+      required: false
