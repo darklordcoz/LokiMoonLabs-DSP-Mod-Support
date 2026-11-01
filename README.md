@@ -16,6 +16,7 @@ Screenshots and relevant log excerpts help us investigate. In r2modman, use **Se
 
 | Mod | Thunderstore listing |
 | --- | --- |
+| Hand Crafted Trinkets | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/HandCraftedTrinkets/) |
 | Logistics Architect | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/LogisticsArchitect/) |
 | Quantum Conduit | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/QuantumConduit/) |
 | Planetary Resource Architect | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/PlanetaryResourceArchitect/) |
