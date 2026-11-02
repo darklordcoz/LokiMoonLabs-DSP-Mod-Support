@@ -18,6 +18,7 @@ Screenshots and relevant log excerpts help us investigate. In r2modman, use **Se
 | --- | --- |
 | Hand Crafted Trinkets | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/HandCraftedTrinkets/) |
 | Logistics Architect | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/LogisticsArchitect/) |
+| Logistics Capacities | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/LogisticsCapacities/) |
 | Quantum Conduit | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/QuantumConduit/) |
 | Planetary Resource Architect | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/PlanetaryResourceArchitect/) |
 | Star System Explorer | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/Star_System_Explorer/) |
