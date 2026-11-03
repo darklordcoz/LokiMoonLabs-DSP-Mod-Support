@@ -16,6 +16,7 @@ Screenshots and relevant log excerpts help us investigate. In r2modman, use **Se
 
 | Mod | Thunderstore listing |
 | --- | --- |
+| Icarus Boost | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/IcarusBoost/) |
 | Hand Crafted Trinkets | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/HandCraftedTrinkets/) |
 | Logistics Architect | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/LogisticsArchitect/) |
 | Logistics Capacities | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/LogisticsCapacities/) |
