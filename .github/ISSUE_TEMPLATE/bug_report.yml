@@ -14,6 +14,7 @@ body:
       label: Affected mod
       description: Select the mod that has the problem.
       options:
+        - Icarus Boost
         - Hand Crafted Trinkets
         - Logistics Architect
         - Logistics Capacities
