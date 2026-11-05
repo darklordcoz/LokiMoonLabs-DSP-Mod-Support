@@ -22,6 +22,7 @@ Screenshots and relevant log excerpts help us investigate. In r2modman, use **Se
 | Logistics Capacities | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/LogisticsCapacities/) |
 | Quantum Conduit | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/QuantumConduit/) |
 | Planetary Resource Architect | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/PlanetaryResourceArchitect/) |
+| Star System Production | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/StarSystemProduction/) |
 | Star System Explorer | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/Star_System_Explorer/) |
 | Chinese to English Mod Translator | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/Chinese_to_English_Mod_Translator/) |
 | Extended Tech Queue | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/ExtendedTechQueue/) |
