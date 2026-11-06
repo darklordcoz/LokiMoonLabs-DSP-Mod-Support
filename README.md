@@ -16,6 +16,7 @@ Screenshots and relevant log excerpts help us investigate. In r2modman, use **Se
 
 | Mod | Thunderstore listing |
 | --- | --- |
+| Honey I Shrunk the Factory | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/HoneyIShrunkTheFactory/) |
 | Icarus Boost | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/IcarusBoost/) |
 | Hand Crafted Trinkets | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/HandCraftedTrinkets/) |
 | Logistics Architect | [Download](https://thunderstore.io/c/dyson-sphere-program/p/LokiMoonLabs/LogisticsArchitect/) |
